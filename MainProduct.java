@@ -29,7 +29,7 @@ class Product {
     }
 }
 
-public class Main {
+public class MainProduct {
     private ArrayList<Product> productList;
 
     public Main() {
